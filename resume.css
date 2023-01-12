@@ -1,0 +1,50 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+#main {
+    background-color: #132C49;
+}
+
+body {
+    background-color: #ACC8E5;
+}
+
+#self {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
+footer {
+    margin-top: 40px;
+ }
+
+.card:hover {
+    transform: scale(1.2);
+}
+
+.btn {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.btn:hover {
+    background-color: #555555;
+    color: white;
+  }
+
+.fimg{
+    height: 50px;
+    width: 50px;
+    filter: grayscale(100%);
+    margin-top: 0%;
+    padding-top: 0%;
+}
+
+#portfolio {
+    background-color: #132C49;
+}
